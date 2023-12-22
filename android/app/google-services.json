@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963036948422",
+    "project_id": "ayobisa-e14c1",
+    "storage_bucket": "ayobisa-e14c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963036948422:android:22f115760721e0de1234c7",
+        "android_client_info": {
+          "package_name": "com.example.cake_baru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhhxgUbFjDYVjTf5u0UISFw6aFJ6YKp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
